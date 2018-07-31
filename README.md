@@ -36,7 +36,7 @@ aller sur :  http://localhost:3000/
 ```
 
 
-o deploy this on a live system
+
 
 ## Built With
 
