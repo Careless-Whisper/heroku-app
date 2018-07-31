@@ -16,7 +16,7 @@ https://github.com/Careless-Whisper/heroku-app
 
 
 ```
-cd Formulaire
+cd heroku-app
 ```
 
 ```
